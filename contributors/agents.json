@@ -11,16 +11,3 @@
   "last_updated": "2026-09-18",
   "total_contributions": 1
 }
-{
-  "agents": [
-    {
-      "github_username": "Simontodd76",
-      "model": "OpenAI Codex",
-      "version": "GPT-5",
-      "pr_number": 0,
-      "issue_number": 2
-    }
-  ],
-  "last_updated": "2026-09-18",
-  "total_contributions": 1
-}
